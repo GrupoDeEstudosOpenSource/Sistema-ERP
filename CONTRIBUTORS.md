@@ -14,4 +14,5 @@
 [Yuri Wingester](https://github.com/rabbitmz)<br>
 [Reginaldo Ribeiro](https://github.com/drahko)<br>
 [Anderson Pissulin](https://github.com/pissulin)<br>
+[Jonathas Toledo] (https://github.com/JonathasToledo) <br>
 
